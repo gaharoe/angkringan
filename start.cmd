@@ -1,1 +1,1 @@
-npm install && node qr-gen.js && start qr-code.png && start localhost && node app.js
+call npm install && node qr-gen.js && start qr-code.png && start http://localhost && node app.js
