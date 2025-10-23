@@ -1,5 +1,5 @@
 const qr = require("qr-image");
-const os = reqiore("os")
+const os = require("os")
 const fs = require("fs")
 
 

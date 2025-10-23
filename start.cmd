@@ -1,4 +1,3 @@
-npm install
-node qr-gen.js
+npm install && node qr-gen.js
 qr-code.png
 node app.js
